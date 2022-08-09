@@ -1,2 +1,4 @@
 # ThesisProject
-This is my Recommending project
+This is my Recommending project.
+
+# Online Car recommendation system using Collaborative Filtering-based aggregated algorithm.
